@@ -21,3 +21,10 @@ Award a title to Best Teacher to an IT lecturer
 - CSS
 - JS
 - Wireframe/Graphic Design
+
+## Why Contribute
+- Work within a team, share **IDEAS**, **LEARN** and **GROW** together
+- Gain experience in developing and managing a **LIVE** website
+- Polish your **CV** with your achievement  in your role
+- Make your **UCAS** statement roboust
+- Come have **FUN** with us
